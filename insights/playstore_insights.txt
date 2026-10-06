@@ -1,0 +1,98 @@
+Play Store Insights — Google Photos
+
+## Top retrieval scenarios
+
+[Insight]
+- Users trying to find old screenshots, memes, or saved references they know exist.
+
+[Examples]
+[play_7a28e86f]
+[play_fb853800]
+[play_2865fbd1]
+
+[Insight]
+- Users looking for photos from a specific period (e.g., child’s early years) but can’t locate them in the timeline.
+
+[Examples]
+[play_b83d8437]
+
+[Insight]
+- Users expecting keywords, labels, or notes they used before to still work, but results are poor or missing.
+
+[Examples]
+[play_7a28e86f]
+[play_2865fbd1]
+[play_fb853800]
+
+## What users typically remember
+
+[Insight]
+- Users remember the type of content (meme, screenshot, note) and sometimes visible text, but not metadata.
+
+[Examples]
+[play_7a28e86f]
+[play_fb853800]
+[play_2865fbd1]
+
+[Insight]
+- Users remember rough age/time of subjects (“when my child was 6”) rather than exact dates.
+
+[Examples]
+[play_b83d8437]
+
+[Insight]
+- Users remember that certain photos or screenshots exist and what they contain, but not exact upload date or folder.
+
+[Examples]
+[play_7a28e86f]
+[play_b83d8437]
+
+## What users typically miss
+
+[Insight]
+- Users do not remember exact upload date, folder, or backup status.
+
+[Examples]
+[play_7a28e86f]
+[play_2865fbd1]
+[play_fb853800]
+
+[Insight]
+- Users do not know why previously working search methods (keywords, notes, labels) stopped returning results.
+
+[Examples]
+[play_7a28e86f]
+[play_2865fbd1]
+[play_fb853800]
+
+[Insight]
+- Users miss clear explanations of how search indexing, notes, and labels work in Google Photos.
+
+[Examples]
+[play_7a28e86f]
+[play_fb853800]
+
+## Emotional patterns
+
+[Insight]
+- Frustration when search or organization changes break previously reliable ways of finding photos.
+
+[Examples]
+[play_fb853800]
+[play_7a28e86f]
+[play_2865fbd1]
+
+[Insight]
+- Distrust in backup and library completeness when expected photos are missing or “mixed up”.
+
+[Examples]
+[play_7a28e86f]
+[play_2865fbd1]
+[play_fb853800]
+
+[Insight]
+- Disappointment when AI search rarely finds the photos they want despite clear cues.
+
+[Examples]
+[play_fb853800]
+[play_7a28e86f]

@@ -1,0 +1,115 @@
+Reddit Insights — r/googlephotos
+
+## Top retrieval scenarios
+
+[Insight]
+- Users trying to locate old photos of specific people or pets from many years ago.
+
+[Examples]
+[reddit_1qvqvs0]
+[reddit_1hnwq7l]
+[reddit_1pk49rw]
+
+[Insight]
+- Users searching for photos or videos tied to a relationship or long-distance partner.
+
+[Examples]
+[reddit_1bc5sxk]
+[reddit_1gz0pm1]
+
+[Insight]
+- Users remember an event or period (trip, illness, life stage) but not exact date or album.
+
+[Examples]
+[reddit_1hjuab0]
+[reddit_1kct143]
+[reddit_1iaob2b]
+[reddit_1gs76kk]
+
+[Insight]
+- Users see a photo in a memory or notification but can’t find the original later.
+
+[Examples]
+[reddit_1foh5m8]
+[reddit_1e832av]
+[reddit_1dplh0l]
+
+## What users typically remember
+
+[Insight]
+- Users remember people, pets, relationships, and major life events.
+
+[Examples]
+[reddit_1dkgnkc]
+[reddit_1d8qnth]
+[reddit_wq5ps1]
+[reddit_17x1j79]
+
+[Insight]
+- Users remember rough time periods (“when my son was born”, “6 yr old photos”) rather than exact dates.
+
+[Examples]
+[reddit_11bsuw9]
+[reddit_pq190c]
+
+[Insight]
+- Users remember that a photo or video exists and what it represents, but not exact location or album.
+
+[Examples]
+[reddit_w86jof]
+[reddit_w5hbhm]
+[reddit_xikqv7]
+
+## What users typically miss
+
+[Insight]
+- Users do not remember exact dates, filenames, or album names.
+
+[Examples]
+[reddit_r5reod]
+[reddit_ugsn9m]
+[reddit_19bjybr]
+
+[Insight]
+- Users cannot reconstruct the exact search keywords the system expects.
+
+[Examples]
+[reddit_g5c3be]
+[reddit_rt42ih]
+
+[Insight]
+- Users miss clear explanations of how search, People indexing, and memories work in Google Photos.
+
+[Examples]
+[reddit_k5fq11]
+[reddit_itotgx]
+[reddit_pqsedj]
+[reddit_ndts9e]
+
+## Emotional patterns
+
+[Insight]
+- Frustration and helplessness when search fails for meaningful memories.
+
+[Examples]
+[reddit_p9hu3p]
+[reddit_m661j2]
+[reddit_1g1ryxb]
+[reddit_1eqbi8x]
+
+[Insight]
+- Confusion when previously working methods (notes, labels, folders) stop behaving as expected.
+
+[Examples]
+[reddit_fjt0mq]
+[reddit_1qzu6zr]
+[reddit_1vatwbd]
+[reddit_1m994wl]
+
+[Insight]
+- Annoyance when seeing a photo in a memory or notification but being unable to re-locate the source.
+
+[Examples]
+[reddit_1mpty7j]
+[reddit_1vq5d1d]
+[reddit_1kz4knp]

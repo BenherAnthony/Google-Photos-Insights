@@ -1,0 +1,12 @@
+The patterns suggest an opportunity to make search understand natural language better:
+
+- Let users type or say what they remember in their own words (for example: “that café we went to during our Goa trip”, “photo of the medicine when I was sick last year”, “video from my 2022 visit to my partner”).
+- The system should automatically figure out:
+  - What the user clearly remembers (event, person, object, rough time, etc.)
+  - What is missing or unclear (exact date, which trip, which person, etc.)
+- Then, instead of showing thousands of results or none, the system should ask 2–3 meaningful follow-up questions to learn more about the desired photo, such as:
+  - “Was this before or after 2020?”
+  - “Was this with your partner or with family?”
+  - “Do you remember roughly which month or season?”
+
+Using natural language to understand what is remembered and what is not, and then asking a small number of targeted follow-up questions, could make it much easier for users to find vaguely remembered photos. This points toward an MVP that focuses on natural-language input, clue extraction, and a few smart clarifying questions instead of complex new UI.

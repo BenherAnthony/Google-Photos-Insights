@@ -1,0 +1,34 @@
+## Problem
+
+People take and save thousands of photos over the years. The goal is to help more users successfully find a photo they remember, even when they cannot describe it precisely.
+
+Reviews and posts from Reddit, the Play Store, and the Google Photos Help Community show a clear pattern: users often remember the memory (a trip, a person, a pet, an event, roughly when it happened) but do not remember exact dates, album names, or the right keywords. Right now, search works best when users already know precise details. This makes it hard to find photos that are remembered only in vague terms.
+
+## What the data shows (across all sources)
+
+People remember photos by events and relationships, not by technical details.
+
+Users can describe what was in the photo, but not exact metadata.
+
+Changes in search and organization make trusted methods stop working.
+
+Users often see a photo in a memory, notification, or auto-made montage, but later cannot find it again.
+
+## Why search is hard for vague memories
+
+Search is built around objects, faces, and exact details, but people remember by meaning: events, people, pets, trips, and rough time periods.
+
+Users are expected to know the right keyword, date range, or album. Vague descriptions like “that café in Goa” or “medicine when I was sick” don’t fit well into today’s search.
+
+When search stops working well even for known cues (labels, notes, keywords), users lose trust and are even less likely to rely on search for vague memories.
+
+## Cross-source patterns
+
+Across Reddit, Play Store, and Help Community, the same themes repeat:
+
+- Users remember people, pets, relationships, and major life events more than filenames, dates, or album names.  
+- Users expect clues they added (notes, captions, labels) to be searchable, but behavior is inconsistent or broken.  
+- Users see photos in memories or notifications but cannot re-locate the original later.  
+- Changes in search, notes, labels, and face grouping break previously reliable ways of finding photos.
+
+These patterns point to a gap between how people remember (by meaning and stories) and how search currently works (by objects, faces, and exact metadata).

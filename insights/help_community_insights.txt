@@ -1,0 +1,132 @@
+Help Community Insights — Google Photos
+
+## Top retrieval scenarios
+
+[Insight]
+- Users trying to find important old photos that appear missing, blank, or unrecoverable.
+
+[Examples]
+[help_1]
+[help_12]
+[help_13]
+[help_15]
+[help_17]
+
+[Insight]
+- Users unable to find photos using metadata they explicitly added (notes, captions, labels).
+
+[Examples]
+[help_2]
+[help_9]
+[help_20]
+
+[Insight]
+- Users searching for specific people or faces but unable to locate them via People search.
+
+[Examples]
+[help_3]
+[help_5]
+[help_6]
+[help_7]
+[help_8]
+
+[Insight]
+- Users searching for text inside images (screenshots, documents) that no longer returns results.
+
+[Examples]
+[help_10]
+
+[Insight]
+- Users looking for specific media types (screenshots, stylized photos) and unsure where they are stored.
+
+[Examples]
+[help_16]
+[help_18]
+
+## What users typically remember
+
+[Insight]
+- Users remember the person, event, or life stage (child's birth, birthday, trip) but not exact dates or album names.
+
+[Examples]
+[help_12]
+[help_15]
+[help_17]
+
+[Insight]
+- Users remember the clue they added (note text, caption word, label idea) and expect it to be searchable.
+
+[Examples]
+[help_2]
+[help_9]
+[help_20]
+
+[Insight]
+- Users remember that a photo or screenshot exists and what it contains, but not its location or filename.
+
+[Examples]
+[help_1]
+[help_10]
+[help_13]
+[help_16]
+
+## What users typically miss
+
+[Insight]
+- Users do not remember exact dates, album paths, or technical locations of their photos.
+
+[Examples]
+[help_1]
+[help_12]
+[help_13]
+[help_15]
+
+[Insight]
+- Users do not know why previously working search methods (notes, captions, face grouping, text-in-image) stopped returning results.
+
+[Examples]
+[help_2]
+[help_6]
+[help_9]
+[help_10]
+
+[Insight]
+- Users miss clear explanations of how People indexing, caption search, and text-in-image search actually work.
+
+[Examples]
+[help_3]
+[help_5]
+[help_6]
+[help_7]
+[help_10]
+
+## Emotional patterns
+
+[Insight]
+- Anxiety and sadness when irreplaceable family memories (children, parents, milestones) seem lost or missing.
+
+[Examples]
+[help_1]
+[help_12]
+[help_15]
+[help_17]
+
+[Insight]
+- Frustration and confusion when features that used to help retrieval (notes, captions, face grouping, text search) break or behave inconsistently.
+
+[Examples]
+[help_2]
+[help_3]
+[help_5]
+[help_6]
+[help_9]
+[help_10]
+
+[Insight]
+- Distrust and fear that Google might be losing their photos over time.
+
+[Examples]
+[help_1]
+[help_12]
+[help_13]
+[help_17]
