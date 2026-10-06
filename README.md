@@ -24,7 +24,7 @@ This Streamlit app presents AI-powered insights from user conversations about re
 
 - `app.py` – Streamlit app entry point  
 - `data/` – Enriched CSV files for each source  
-- `insights/` – AI-generated insight summaries and proposed direction  
+- `insights/` – AI-generated insight summaries  
 - `scrapers/` – Scripts used to collect raw data (Reddit, Play Store, Help Community)  
 - `scripts/` – Data enrichment and processing scripts  
 - `Frame.png` – Pipeline architecture diagram shown in the app  
