@@ -228,7 +228,8 @@ tabs = st.tabs([
     "Play Store",
     "Help Community",
     "Proposed direction",
-    "Pipeline architecture"
+    "Pipeline architecture",
+    "Notes"
 ])
 
 # -------------------------------------------------------------
@@ -287,3 +288,21 @@ with tabs[5]:
 
     # Ensure your JPG file is named gemini-pipeline.jpg and sits next to app.py
     st.image("Frame.png", use_container_width=True)
+# -------------------------------------------------------------
+# Tab 7: Notes
+# -------------------------------------------------------------
+with tabs[6]:
+    st.header("Notes")
+
+    st.markdown(
+        """
+        ## Data processing & limitations
+
+        - The parsing and analysis pipeline is **not dynamic**.  
+          New data does not automatically update the insights.  
+          To refresh insights, the data extraction and AI analysis must be re-run manually.
+
+        - **Help Community data** was scraped manually due to technical difficulties with automated scraping.  
+          This means the dataset is a snapshot and may not reflect the very latest discussions.
+        """
+    )
