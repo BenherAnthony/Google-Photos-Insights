@@ -296,7 +296,7 @@ with tabs[6]:
 
     st.markdown(
         """
-        ## Data processing & limitations
+        #Data processing & limitations
 
         - The parsing and analysis pipeline is **not dynamic**.  
           New data does not automatically update the insights.  
@@ -304,5 +304,7 @@ with tabs[6]:
 
         - **Help Community data** was scraped manually due to technical difficulties with automated scraping.  
           This means the dataset is a snapshot and may not reflect the very latest discussions.
+
+        - Github Link : https://github.com/BenherAnthony/Google-Photos-Insights
         """
     )
